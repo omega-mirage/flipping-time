@@ -6,13 +6,7 @@ Flip is an advanced and beautiful flip counter plugin. Easy to use and highly fl
 
 [Learn more about Flip](https://pqina.nl/flip/) / [Learn more about Tick the engine that powers Flip](https://github.com/pqina/tick/)
 
----
 
-[<img src="https://github.com/pqina/flip/blob/master/header.svg" alt=""/>](https://www.buymeacoffee.com/rikschennink/)
-
-[Buy me a Coffee](https://www.buymeacoffee.com/rikschennink/) / [Dev updates on Twitter](https://twitter.com/rikschennink/)
-
----
 
 
 ## Quick Start
